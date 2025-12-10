@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: _site
 
 website:
-  title: "r-table-publication"
+  title: "Publication Ready Tables in R"
   navbar:
     left:
       - href: index.qmd
