@@ -1,9 +1,4 @@
 ---
-title: "About"
+title: "Beautiful Tables"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```

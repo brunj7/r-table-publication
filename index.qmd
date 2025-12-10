@@ -1,5 +1,5 @@
 ---
-title: "r-table-publication"
+title: "Publication Ready Tables in R"
 ---
 
 This is a Quarto website.
